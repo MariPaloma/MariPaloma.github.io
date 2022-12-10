@@ -1,0 +1,124 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
+body{
+  background-image: url(../imagenes/javascript.png);
+
+}
+
+h1{
+font-family: 'Bungee Spice', cursive;
+font-size: 35px;
+ text-align: center;
+}
+
+
+h3{
+  font-family: 'Nerko One', monospace;
+    text-align: left;
+    font-size: 15;
+}
+
+h4{
+  color: #ff5722;
+font-family: 'Space Mono',monospace;
+text-align: center;
+font-size: 15;
+}
+
+h5{
+font-family: 'Nerko One', monospace;
+    text-align: left;
+    font-size: 20;
+}
+
+p{
+  font-family: 'Fredoka One';
+  text-align: justify;
+}
+
+.container{
+  font-size: 18;
+    width:800px;
+    background-color:#81d4fa;
+    margin: 20px auto;
+    padding: 50px;
+    border-radius: 5px;
+    text-align:justify;
+
+  }
+
+.container3{
+
+
+   justify-content: center;
+}
+
+.texto4{
+  font-family: 'Black Ops One', cursive;
+font-size: 15;
+  color: white;
+  background-color:#ff8a80;
+  margin: 50px auto;
+  padding: 5px;
+
+
+}
+    .Tp1{
+      font-family: 'Quicksand',serif;
+      text-align: center;
+      font-size: 15;
+}
+
+.exp{
+font-family: 'Space Mono',monospace;
+  font-size: 20;
+  text-align: justify;
+
+}
+
+.masInfo{
+  margin: 80px;
+  text-align: center;
+
+}
+
+.datos{
+  color: black;
+}
+
+.redessociales{
+
+color:white;
+padding: 10;
+text-decoration: none;
+text-align: center;
+}
+
+.redessociales:hover{
+  color:red;
+
+
+
+}
+
+.item-m{
+  display: inline-block;
+  text-align: center;
+  padding: 10px;
+
+}
+
+.ig{
+  text-align: center;
+}
+
+.pie {
+  color: white;
+  background-color: black;
+  padding: 20px;
+  text-align: center;
+}
