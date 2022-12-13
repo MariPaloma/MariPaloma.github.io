@@ -122,3 +122,17 @@ text-align: center;
   padding: 20px;
   text-align: center;
 }
+
+.contenedorColor{
+
+   width:800px;
+
+   background-color:#f4ff81;
+   margin: 50px auto;
+   padding: 5px;
+   border: 7px solid white;
+   border-radius: 5px;
+
+
+}
+
